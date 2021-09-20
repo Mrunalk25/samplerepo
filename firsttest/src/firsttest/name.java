@@ -6,6 +6,12 @@ public class name {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello World");
+		show();
+		
+	}
+	public void show()
+	{
+		print("Hello This is Shoiw method");
 	}
 
 }
