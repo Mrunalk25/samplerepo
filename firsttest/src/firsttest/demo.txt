@@ -1,1 +1,4 @@
-hello this is ranch creation in cmd
+
+=======
+the quick brown fox
+>>>>>>> testfeature
